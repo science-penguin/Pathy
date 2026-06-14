@@ -1,2 +1,2 @@
 # Pathy
-A free, open source tool for adding your apps to Path
+A free, open source tool for adding your applications to Path. Simply, in the parent directory of the folder of the app you would like to install, run pathy appName and it will add to path.
